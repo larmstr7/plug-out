@@ -49,6 +49,7 @@ a.hover {
     background-image: linear-gradient(black, white);
 }
 
-#inward {
-    align-content:center;
-}
+.grid-container {
+    display: grid;
+    border:none;
+  }
