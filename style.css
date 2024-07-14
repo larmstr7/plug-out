@@ -6,11 +6,11 @@ body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     background-image: linear-gradient(black, white);
-    font-size: 24pt;
+    font-size: 32px;
 }
 
 p {
-    font-size: 24pt;
+    font-size: 32px;
     margin: auto;
     text-align: center;
     padding: 40px
@@ -35,7 +35,7 @@ a.hover {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 24pt;
+    font-size: 32px;
     width: 25%;
     cursor: pointer;
 }
